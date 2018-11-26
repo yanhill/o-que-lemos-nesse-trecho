@@ -1,0 +1,82 @@
+.bloco{
+    font: normal  12px/27px Georgia, serif;
+    width: 88%;
+    margin-left: auto;
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+    letter-spacing: 1px;
+}
+
+#el1, #el2, #el3 {
+    color: darkblue;
+    font-weight: normal;
+     font-style: normal;
+    display:none;
+    letter-spacing: 3px;
+    font: 11px/25px Helvetica;
+}
+
+#ref{
+    font: normal 10px/30px Georgia, serif;
+    font-style: normal;
+    letter-spacing: 1px;
+    text-align: right;
+}
+
+#el4, #el5{
+    font: 12px/25px Lucida Console;
+    font-style: normal;
+    position:relative;
+    display:none;
+}
+
+
+#el6{
+      
+     font: 11px/15px Helvetica;
+    
+
+    display:none;
+}
+
+#el7{
+    display:none; 
+}
+
+.segundo{
+      margin-right: 20px;    
+
+     width: 500px;
+    margin-left: 20px;
+}
+
+.primeiro{
+    text-align: justify;
+    width: 650px;
+    margin-left: 60px;  
+}
+
+#titulo{
+  font: bold 15px/25px Lucida Console;
+}
+
+#autora{
+  font: italic bold 13px/25px Georgia;
+}
+
+#sobre{
+  font: 11px/15px Helvetica;
+    letter-spacing: 2px;
+}
+
+.dois{
+     display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    margin-left: 50px;
+    margin-top: 50px;
+    font: 28px/30px Arial Black;
+}
